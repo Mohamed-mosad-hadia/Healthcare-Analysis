@@ -48,7 +48,7 @@ Project Description
 
 # Dashboard  
 
-![Alt text](https://github.com/Mohamed-mosad-hadia/Sales-Data-Analysis-/blob/main/Dashboard.jpg)
+![Alt text](https://github.com/Mohamed-mosad-hadia/Healthcare-Analysis-/blob/main/Dashboard%20img.jpg)
 
 
 ##  Connect With Me:<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
